@@ -1,8 +1,4 @@
-var name = "Doug"
-var height = "74"
-
-console.log("Name:")
-console.log(name)
-
-console.log("Height:")
-console.log(height)
+function shout(string) {
+  let string = "hello"
+  console.log(string)
+}
