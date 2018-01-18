@@ -1,4 +1,4 @@
 function shout(string) {
-  let string = "hello"
+  var string = "hello"
   return string.toUpperCase
 }
